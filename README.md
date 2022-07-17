@@ -10,6 +10,7 @@
 Programmer specialized in **web development** using multiple **tools, frameworks and libraries** in the frontend. I pay _a lot of attention to detail_ to generate best products.
 
 <br>
+
 **Languages and Tools:** <br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
@@ -33,7 +34,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-ochieng-dev&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide=issues&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bryern&line_height=35&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide=issues&hide_border=true&langs_count=7&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ochieng-dev&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide=issues&hide_border=true" />
 </a>
 
 <br>
