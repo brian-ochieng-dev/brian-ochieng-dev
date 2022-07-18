@@ -34,7 +34,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=brian-ochieng-dev&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide=issues&hide_border=true&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ochieng-dev&amp;count_private=true&amp;line_height=40&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brian-ochieng-dev&amp;count_private=true&amp;line_height=35&title_color=00ADB5&icon_color=00ADB5&text_color=eeeeee&bg_color=222831&hide_border=true" />
 </a>
 
 <br>
